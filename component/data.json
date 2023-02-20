@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "coordonnees": [
+                {
+                    "nom": "NOM",
+                    "prenom": "Prénom",
+                    "adresse": "",
+                    "tel": "",
+                    "email": "",
+                    "fonction": "Responsable marketing"
+                }
+            ],
+            "competences": [
+                {
+                    "id": 1,
+                    "name": "SEO/SEA"
+                },
+                {
+                    "id": 2,
+                    "name": "Développement WebAPP"
+                }
+            ],
+            "projets": [
+                {
+                    "id": 1,
+                    "slug": "",
+                    "name": "Projet 1",
+                    "entreprise": "MS School",
+                    "date": "2023",
+                    "description": "Développement d'un CV en ligne",
+                    "resultats": [
+                        {
+                            "id": 1,
+                            "resultat": "Augmentation de 30% du CA"
+                        },
+                        {
+                            "id": 2,
+                            "resultat": "Création des mockup pour le site intitutionnel"
+                        }
+                    ]
+                }
+            ],
+            "experiences": [
+                {
+                    "id": 1,
+                    "slug": "",
+                    "name": "",
+                    "entreprise": "",
+                    "date": "",
+                    "description": "",
+                    "resultats": [
+                        {
+                            "id": 1,
+                            "resultat": "Augmentation de 30% du CA"
+                        },
+                        {
+                            "id": 2,
+                            "resultat": "Création des mockup pour le site intitutionnel"
+                        }
+                    ]
+                }
+            ],
+            "diplomes": [
+                {
+                    "id": 1,
+                    "slug": "",
+                    "name": "SDW5",
+                    "ecole": "MS School",
+                    "date": "2023",
+                    "description": "blabla"
+                }
+            ],
+            "langues": [
+                {
+                    "name": "",
+                    "niveau": ""
+                }
+            ],
+            "autres": []
+        }
+    ]
+}
