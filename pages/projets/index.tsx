@@ -1,5 +1,5 @@
-import Header from "../component/header";
-import data from "../component/data.json";
+import Header from "../../component/header";
+import data from "../../component/data.json";
 import Head from "next/head";
 
 export default function Projets() {
