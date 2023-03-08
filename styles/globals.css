@@ -158,9 +158,31 @@ a {
   }
 }
 
-header a {
+.button {
   color: white;
   background-color: black;
   text-transform: uppercase;
   padding: 2rem;
+}
+
+.menu-button {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
+.menu-icon {
+  display: block;
+  color: black;
+}
+
+.menu-hidden {
+  display: none;
+}
+
+.menu {
+  position: absolute;
+  padding: 40px;
+  top: 0;
+  right: 0;
 }
